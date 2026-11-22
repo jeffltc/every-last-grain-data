@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "game": "Every Last Grain",
+    "developer": "Oliver Kuso",
+    "source": "https://oliver-kuso.itch.io/every-last-grain",
+    "build": "Update 8 (itch build 20731543)",
+    "extracted": "2026-11-23"
+  },
+  "areas": [
+    {
+      "name": "Lot Edge",
+      "description": "The dunes spilling over the north edge of the parking lot.",
+      "opens": "Start",
+      "in_demo": true,
+      "milestones": [
+        {
+          "cleared": "5%",
+          "reward": "$50, Hand Vacuum in stock",
+          "message": "The supply terminal has new stock. Time to stop scooping and start sucking."
+        },
+        {
+          "cleared": "25%",
+          "reward": "$100, Twin Canister in stock",
+          "message": "A second canister for the hand vacuum is in stock. Twice the sand per trip."
+        },
+        {
+          "cleared": "50%",
+          "reward": "$250, Dry Wash opens",
+          "message": "The north gate is open. The Dry Wash has more sand and better finds."
+        },
+        {
+          "cleared": "75%",
+          "reward": "Turbine Vacuum in stock",
+          "message": "A turbine vacuum is now available at the terminal."
+        },
+        {
+          "cleared": "100%",
+          "reward": "$500, +1 Skill Point, Lot Edge Survey Plaque",
+          "message": "Solid ground, edge to edge."
+        }
+      ]
+    },
+    {
+      "name": "Dry Wash",
+      "description": "An old riverbed between two cliffs. Deeper sand, older junk.",
+      "in_demo": false,
+      "note": "Full game. Details sealed until release.",
+      "opens": "Lot Edge 50%"
+    },
+    {
+      "name": "Great Dune",
+      "description": "The big one. Three metres of sand in places, and things at the bottom that should not be there.",
+      "in_demo": false,
+      "note": "Full game. Details sealed until release."
+    }
+  ]
+}

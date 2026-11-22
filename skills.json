@@ -1,0 +1,485 @@
+{
+  "meta": {
+    "game": "Every Last Grain",
+    "developer": "Oliver Kuso",
+    "source": "https://oliver-kuso.itch.io/every-last-grain",
+    "build": "Update 8 (itch build 20731543)",
+    "extracted": "2026-11-23"
+  },
+  "total_skill_points": 58,
+  "skills": [
+    {
+      "branch": "Vacuum",
+      "name": "Stronger Suction I",
+      "effect": "Suction 12% faster.",
+      "requires": [],
+      "cost_sp": 1,
+      "capstone": false
+    },
+    {
+      "branch": "Vacuum",
+      "name": "Stronger Suction II",
+      "effect": "Suction 24% faster (was 12%).",
+      "requires": [
+        "Stronger Suction I"
+      ],
+      "cost_sp": 1,
+      "capstone": false
+    },
+    {
+      "branch": "Vacuum",
+      "name": "Stronger Suction III",
+      "effect": "Suction 36% faster (was 24%).",
+      "requires": [
+        "Stronger Suction II"
+      ],
+      "cost_sp": 1,
+      "capstone": false
+    },
+    {
+      "branch": "Vacuum",
+      "name": "Stronger Suction IV",
+      "effect": "Suction 48% faster (was 36%).",
+      "requires": [
+        "Stronger Suction III"
+      ],
+      "cost_sp": 1,
+      "capstone": false
+    },
+    {
+      "branch": "Vacuum",
+      "name": "Wide Nozzle I",
+      "effect": "Collection radius 10% wider.",
+      "requires": [
+        "Stronger Suction I"
+      ],
+      "cost_sp": 1,
+      "capstone": false
+    },
+    {
+      "branch": "Vacuum",
+      "name": "Wide Nozzle II",
+      "effect": "Collection radius 20% wider (was 10%).",
+      "requires": [
+        "Wide Nozzle I"
+      ],
+      "cost_sp": 1,
+      "capstone": false
+    },
+    {
+      "branch": "Vacuum",
+      "name": "Wide Nozzle III",
+      "effect": "Collection radius 30% wider (was 20%).",
+      "requires": [
+        "Wide Nozzle II"
+      ],
+      "cost_sp": 1,
+      "capstone": false
+    },
+    {
+      "branch": "Vacuum",
+      "name": "Wide Nozzle IV",
+      "effect": "Collection radius 40% wider (was 30%).",
+      "requires": [
+        "Wide Nozzle III"
+      ],
+      "cost_sp": 1,
+      "capstone": false
+    },
+    {
+      "branch": "Vacuum",
+      "name": "Deep Cleaning",
+      "effect": "Suction 35% faster in sand deeper than 35 cm.",
+      "requires": [
+        "Wide Nozzle I"
+      ],
+      "cost_sp": 1,
+      "capstone": false
+    },
+    {
+      "branch": "Vacuum",
+      "name": "Sandstorm",
+      "effect": "Press Q: triple suction and a 50% wider nozzle for 12 seconds. 75 second cooldown.",
+      "requires": [
+        "Deep Cleaning"
+      ],
+      "cost_sp": 3,
+      "capstone": true
+    },
+    {
+      "branch": "Logistics",
+      "name": "Bigger Bag I",
+      "effect": "Your bag holds 15% more.",
+      "requires": [],
+      "cost_sp": 1,
+      "capstone": false
+    },
+    {
+      "branch": "Logistics",
+      "name": "Bigger Bag II",
+      "effect": "Your bag holds 30% more (was 15%).",
+      "requires": [
+        "Bigger Bag I"
+      ],
+      "cost_sp": 1,
+      "capstone": false
+    },
+    {
+      "branch": "Logistics",
+      "name": "Bigger Bag III",
+      "effect": "Your bag holds 45% more (was 30%).",
+      "requires": [
+        "Bigger Bag II"
+      ],
+      "cost_sp": 1,
+      "capstone": false
+    },
+    {
+      "branch": "Logistics",
+      "name": "Auto Compression",
+      "effect": "Packs the sand tight: your bag holds twice as much.",
+      "requires": [
+        "Bigger Bag III"
+      ],
+      "cost_sp": 3,
+      "capstone": true
+    },
+    {
+      "branch": "Logistics",
+      "name": "Bigger Bag IV",
+      "effect": "Your bag holds 60% more (was 45%), then Auto Compression doubles it.",
+      "requires": [
+        "Auto Compression"
+      ],
+      "cost_sp": 1,
+      "capstone": false
+    },
+    {
+      "branch": "Logistics",
+      "name": "Fast Deposit I",
+      "effect": "Unload sand 60% faster.",
+      "requires": [
+        "Bigger Bag I"
+      ],
+      "cost_sp": 1,
+      "capstone": false
+    },
+    {
+      "branch": "Logistics",
+      "name": "Fast Deposit II",
+      "effect": "Unload sand 120% faster (was 60%).",
+      "requires": [
+        "Fast Deposit I"
+      ],
+      "cost_sp": 1,
+      "capstone": false
+    },
+    {
+      "branch": "Logistics",
+      "name": "Fast Deposit III",
+      "effect": "Unload sand 180% faster (was 120%).",
+      "requires": [
+        "Fast Deposit II"
+      ],
+      "cost_sp": 1,
+      "capstone": false
+    },
+    {
+      "branch": "Logistics",
+      "name": "Light Feet I",
+      "effect": "Walk 6% faster.",
+      "requires": [
+        "Bigger Bag I"
+      ],
+      "cost_sp": 1,
+      "capstone": false
+    },
+    {
+      "branch": "Logistics",
+      "name": "Light Feet II",
+      "effect": "Walk 12% faster (was 6%).",
+      "requires": [
+        "Light Feet I"
+      ],
+      "cost_sp": 1,
+      "capstone": false
+    },
+    {
+      "branch": "Logistics",
+      "name": "Light Feet III",
+      "effect": "Walk 18% faster (was 12%).",
+      "requires": [
+        "Light Feet II"
+      ],
+      "cost_sp": 1,
+      "capstone": false
+    },
+    {
+      "branch": "Logistics",
+      "name": "Shoulder Strap",
+      "effect": "Your bag holds 5% more and suction is 5% faster.",
+      "requires": [
+        "Stronger Suction I",
+        "Bigger Bag I"
+      ],
+      "cost_sp": 1,
+      "capstone": false
+    },
+    {
+      "branch": "Economy",
+      "name": "Better Prices I",
+      "effect": "Sand sells for 8% more.",
+      "requires": [],
+      "cost_sp": 1,
+      "capstone": false
+    },
+    {
+      "branch": "Economy",
+      "name": "Better Prices II",
+      "effect": "Sand sells for 16% more (was 8%).",
+      "requires": [
+        "Better Prices I"
+      ],
+      "cost_sp": 1,
+      "capstone": false
+    },
+    {
+      "branch": "Economy",
+      "name": "Better Prices III",
+      "effect": "Sand sells for 24% more (was 16%).",
+      "requires": [
+        "Better Prices II"
+      ],
+      "cost_sp": 1,
+      "capstone": false
+    },
+    {
+      "branch": "Economy",
+      "name": "Sand Baron",
+      "effect": "Sand sells for 74% more (was 24%).",
+      "requires": [
+        "Better Prices III"
+      ],
+      "cost_sp": 3,
+      "capstone": true
+    },
+    {
+      "branch": "Economy",
+      "name": "Appraisal I",
+      "effect": "Finds sell for 10% more.",
+      "requires": [
+        "Better Prices I"
+      ],
+      "cost_sp": 1,
+      "capstone": false
+    },
+    {
+      "branch": "Economy",
+      "name": "Appraisal II",
+      "effect": "Finds sell for 20% more (was 10%).",
+      "requires": [
+        "Appraisal I"
+      ],
+      "cost_sp": 1,
+      "capstone": false
+    },
+    {
+      "branch": "Economy",
+      "name": "Appraisal III",
+      "effect": "Finds sell for 30% more (was 20%).",
+      "requires": [
+        "Appraisal II"
+      ],
+      "cost_sp": 1,
+      "capstone": false
+    },
+    {
+      "branch": "Economy",
+      "name": "Bulk Seller I",
+      "effect": "Unloading a full bag pays 15% extra for that sand.",
+      "requires": [
+        "Better Prices I"
+      ],
+      "cost_sp": 1,
+      "capstone": false
+    },
+    {
+      "branch": "Economy",
+      "name": "Bulk Seller II",
+      "effect": "A full bag pays 30% extra (was 15%).",
+      "requires": [
+        "Bulk Seller I"
+      ],
+      "cost_sp": 1,
+      "capstone": false
+    },
+    {
+      "branch": "Economy",
+      "name": "Bulk Seller III",
+      "effect": "A full bag pays 45% extra (was 30%).",
+      "requires": [
+        "Bulk Seller II"
+      ],
+      "cost_sp": 1,
+      "capstone": false
+    },
+    {
+      "branch": "Economy",
+      "name": "Sales Pitch",
+      "effect": "Sand sells for 3% more and suction is 5% faster.",
+      "requires": [
+        "Stronger Suction I",
+        "Better Prices I"
+      ],
+      "cost_sp": 1,
+      "capstone": false
+    },
+    {
+      "branch": "Exploration",
+      "name": "Treasure Sense",
+      "effect": "Buried finds within 7 m make a faint ticking sound. Faster ticks mean closer.",
+      "requires": [],
+      "cost_sp": 1,
+      "capstone": false
+    },
+    {
+      "branch": "Exploration",
+      "name": "Finder's Luck",
+      "effect": "A ring on the sand shows roughly where buried finds lie within 22 m.",
+      "requires": [
+        "Treasure Sense"
+      ],
+      "cost_sp": 1,
+      "capstone": false
+    },
+    {
+      "branch": "Exploration",
+      "name": "Deep Scanner",
+      "effect": "Markers show rarity, and the ring round rare and legendary finds is half the size.",
+      "requires": [
+        "Finder's Luck"
+      ],
+      "cost_sp": 1,
+      "capstone": false
+    },
+    {
+      "branch": "Exploration",
+      "name": "Master Explorer",
+      "effect": "Reveals every remaining find in areas that are at least 75% cleared.",
+      "requires": [
+        "Deep Scanner"
+      ],
+      "cost_sp": 3,
+      "capstone": true
+    },
+    {
+      "branch": "Exploration",
+      "name": "Wider Search I",
+      "effect": "Treasure Sense and Finder's Luck reach 25% further.",
+      "requires": [
+        "Finder's Luck"
+      ],
+      "cost_sp": 1,
+      "capstone": false
+    },
+    {
+      "branch": "Exploration",
+      "name": "Wider Search II",
+      "effect": "Treasure Sense and Finder's Luck reach 50% further (was 25%).",
+      "requires": [
+        "Wider Search I"
+      ],
+      "cost_sp": 1,
+      "capstone": false
+    },
+    {
+      "branch": "Exploration",
+      "name": "Wider Search III",
+      "effect": "Treasure Sense and Finder's Luck reach 75% further (was 50%).",
+      "requires": [
+        "Wider Search II"
+      ],
+      "cost_sp": 1,
+      "capstone": false
+    },
+    {
+      "branch": "Endurance",
+      "name": "Stamina I",
+      "effect": "Sprint 20% longer.",
+      "requires": [],
+      "cost_sp": 1,
+      "capstone": false
+    },
+    {
+      "branch": "Endurance",
+      "name": "Stamina II",
+      "effect": "Sprint 40% longer (was 20%).",
+      "requires": [
+        "Stamina I"
+      ],
+      "cost_sp": 1,
+      "capstone": false
+    },
+    {
+      "branch": "Endurance",
+      "name": "Stamina III",
+      "effect": "Sprint 60% longer (was 40%).",
+      "requires": [
+        "Stamina II"
+      ],
+      "cost_sp": 1,
+      "capstone": false
+    },
+    {
+      "branch": "Endurance",
+      "name": "Tireless",
+      "effect": "Twice the stamina, and it comes back 50% faster. You can sprint the whole lot.",
+      "requires": [
+        "Stamina III"
+      ],
+      "cost_sp": 3,
+      "capstone": true
+    },
+    {
+      "branch": "Endurance",
+      "name": "Stamina IV",
+      "effect": "Sprint 80% longer (was 60%), then Tireless doubles it.",
+      "requires": [
+        "Tireless"
+      ],
+      "cost_sp": 1,
+      "capstone": false
+    },
+    {
+      "branch": "Endurance",
+      "name": "Quick Recovery I",
+      "effect": "Stamina comes back 25% faster.",
+      "requires": [
+        "Stamina I"
+      ],
+      "cost_sp": 1,
+      "capstone": false
+    },
+    {
+      "branch": "Endurance",
+      "name": "Quick Recovery II",
+      "effect": "Stamina comes back 50% faster (was 25%).",
+      "requires": [
+        "Quick Recovery I"
+      ],
+      "cost_sp": 1,
+      "capstone": false
+    },
+    {
+      "branch": "Endurance",
+      "name": "Sand Walker",
+      "effect": "Walk 5% faster and sprint 10% longer.",
+      "requires": [
+        "Treasure Sense",
+        "Stamina I"
+      ],
+      "cost_sp": 1,
+      "capstone": false
+    }
+  ]
+}

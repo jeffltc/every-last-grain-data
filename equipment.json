@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "game": "Every Last Grain",
+    "developer": "Oliver Kuso",
+    "source": "https://oliver-kuso.itch.io/every-last-grain",
+    "build": "Update 8 (itch build 20731543)",
+    "extracted": "2026-11-23"
+  },
+  "equipment": [
+    {
+      "name": "Soup Spoon",
+      "price_usd": 0,
+      "unlock": "Start",
+      "description": "Standard issue. The reclamation budget was cut."
+    },
+    {
+      "name": "Garden Trowel",
+      "price_usd": 15,
+      "unlock": "Shop",
+      "description": "Borrowed from a flower bed. Roughly two spoons."
+    },
+    {
+      "name": "Shovel",
+      "price_usd": 150,
+      "unlock": "Shop",
+      "description": "Finally, a tool made for this."
+    },
+    {
+      "name": "Hand Vacuum",
+      "price_usd": 900,
+      "unlock": "Lot Edge 5%",
+      "description": "Battery powered. It sucks, in the good way."
+    },
+    {
+      "name": "Twin Canister",
+      "price_usd": 600,
+      "unlock": "Lot Edge 25%",
+      "description": "A second container strapped to the first. Doubles capacity."
+    },
+    {
+      "name": "Turbine Vacuum",
+      "price_usd": 15000,
+      "unlock": "Lot Edge 75%",
+      "description": "A salvaged jet turbine with a handle bolted on. Loud."
+    }
+  ],
+  "shop_upgrades": [
+    {
+      "name": "Suction Motor",
+      "unit": "kg/s",
+      "description": "Rewound motor windings. Pulls sand faster."
+    },
+    {
+      "name": "Nozzle Radius",
+      "description": "Wider intake. A small nozzle caps how much sand any motor can pull."
+    },
+    {
+      "name": "Buyer Contract",
+      "unit": "$/kg",
+      "description": "Renegotiated price per kilogram at the deposit machine."
+    },
+    {
+      "name": "Bags & Tanks",
+      "unit": "kg",
+      "description": "What you carry sand in. Fewer walks to the machine.",
+      "tiers": [
+        "Spoonful",
+        "Small Bag",
+        "Sand Sack",
+        "Big Bag",
+        "Barrel Pack",
+        "Hopper Pack",
+        "Sand Silo"
+      ]
+    }
+  ],
+  "full_game_sealed": {
+    "count": 5,
+    "note": "Five more tools unlock in the full game's areas. Sealed until release."
+  }
+}

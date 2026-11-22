@@ -1,0 +1,213 @@
+{
+  "meta": {
+    "game": "Every Last Grain",
+    "developer": "Oliver Kuso",
+    "source": "https://oliver-kuso.itch.io/every-last-grain",
+    "build": "Update 8 (itch build 20731543)",
+    "extracted": "2026-11-23"
+  },
+  "note": "Full-game items are listed the way the in-game Collection shows them (rarity and value only). Names and details stay sealed until the full game is released.",
+  "lot_edge_finds": [
+    {
+      "name": "Old Sock",
+      "rarity": "Common",
+      "value_usd": 2,
+      "description": "Crunchy. Do not smell it. You smelled it.",
+      "count_lot_edge": 2
+    },
+    {
+      "name": "Lone Flip-Flop",
+      "rarity": "Common",
+      "value_usd": 3,
+      "description": "Left foot. The right one is having a better day somewhere.",
+      "count_lot_edge": 2
+    },
+    {
+      "name": "Sunscreen",
+      "rarity": "Common",
+      "value_usd": 5,
+      "description": "Factor 50. Expired in 1998. So did the tan.",
+      "count_lot_edge": 1
+    },
+    {
+      "name": "Swim Trunks",
+      "rarity": "Common",
+      "value_usd": 6,
+      "description": "Somehow still damp.",
+      "count_lot_edge": 1
+    },
+    {
+      "name": "Sunglasses",
+      "rarity": "Common",
+      "value_usd": 8,
+      "description": "One owner. Probably sunburnt.",
+      "count_lot_edge": 1
+    },
+    {
+      "name": "Gardening Glove",
+      "rarity": "Common",
+      "value_usd": 15,
+      "description": "Just the one. The hand is not in it. Good.",
+      "count_lot_edge": 1
+    },
+    {
+      "name": "Inflatable Flamingo",
+      "rarity": "Common",
+      "value_usd": 20,
+      "description": "Still holding a little air. And a little hope.",
+      "count_lot_edge": 1
+    },
+    {
+      "name": "Fish Skeleton",
+      "rarity": "Uncommon",
+      "value_usd": 40,
+      "description": "This was a sea once. The fish did not get the memo.",
+      "count_lot_edge": 1
+    },
+    {
+      "name": "Human Skull",
+      "rarity": "Rare",
+      "value_usd": 1500,
+      "description": "No ID, no wallet, great teeth.",
+      "count_lot_edge": 1
+    },
+    {
+      "name": "Grandma's Urn",
+      "rarity": "Rare",
+      "value_usd": 2000,
+      "description": "Half full. Nobody knows where the other half went. Check your shoes.",
+      "count_lot_edge": 1
+    },
+    {
+      "name": "The Last Guy",
+      "rarity": "Legendary",
+      "value_usd": 3000,
+      "description": "Hard hat. Hi-vis vest. Still holding a spoon. Well. Now somebody asks.",
+      "count_lot_edge": 1
+    },
+    {
+      "name": "Concrete Boots",
+      "rarity": "Rare",
+      "value_usd": 3500,
+      "description": "Size 44. The previous owner was last seen near the river.",
+      "count_lot_edge": 1
+    }
+  ],
+  "lot_edge_total_usd": 10104,
+  "full_game_sealed": [
+    {
+      "name": "???",
+      "rarity": "Common",
+      "value_usd": 2,
+      "area": "Full game"
+    },
+    {
+      "name": "???",
+      "rarity": "Uncommon",
+      "value_usd": 60,
+      "area": "Full game"
+    },
+    {
+      "name": "???",
+      "rarity": "Uncommon",
+      "value_usd": 90,
+      "area": "Full game"
+    },
+    {
+      "name": "???",
+      "rarity": "Uncommon",
+      "value_usd": 120,
+      "area": "Full game"
+    },
+    {
+      "name": "???",
+      "rarity": "Rare",
+      "value_usd": 1500,
+      "area": "Full game"
+    },
+    {
+      "name": "???",
+      "rarity": "Rare",
+      "value_usd": 2500,
+      "area": "Full game"
+    },
+    {
+      "name": "???",
+      "rarity": "Rare",
+      "value_usd": 3000,
+      "area": "Full game"
+    },
+    {
+      "name": "???",
+      "rarity": "Rare",
+      "value_usd": 3500,
+      "area": "Full game"
+    },
+    {
+      "name": "???",
+      "rarity": "Rare",
+      "value_usd": 4500,
+      "area": "Full game"
+    },
+    {
+      "name": "???",
+      "rarity": "Rare",
+      "value_usd": 5000,
+      "area": "Full game"
+    },
+    {
+      "name": "???",
+      "rarity": "Legendary",
+      "value_usd": 30000,
+      "area": "Full game"
+    },
+    {
+      "name": "???",
+      "rarity": "Legendary",
+      "value_usd": 35000,
+      "area": "Full game"
+    },
+    {
+      "name": "???",
+      "rarity": "Legendary",
+      "value_usd": 40000,
+      "area": "Full game"
+    },
+    {
+      "name": "???",
+      "rarity": "Legendary",
+      "value_usd": 45000,
+      "area": "Full game"
+    },
+    {
+      "name": "???",
+      "rarity": "Legendary",
+      "value_usd": 50000,
+      "area": "Full game"
+    },
+    {
+      "name": "???",
+      "rarity": "Legendary",
+      "value_usd": 60000,
+      "area": "Full game"
+    },
+    {
+      "name": "???",
+      "rarity": "Legendary",
+      "value_usd": 90000,
+      "area": "Full game"
+    },
+    {
+      "name": "???",
+      "rarity": "Legendary",
+      "value_usd": 150000,
+      "area": "Full game"
+    }
+  ],
+  "commemorative": [
+    {
+      "name": "Lot Edge Survey Plaque",
+      "description": "Issued for clearing the Lot Edge."
+    }
+  ]
+}
