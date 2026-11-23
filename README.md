@@ -8,8 +8,9 @@ Reference data for **[Every Last Grain](https://oliver-kuso.itch.io/every-last-g
 | [`equipment.json`](equipment.json) | The 6 demo tools with price and unlock condition, and the 4 shop upgrade lines |
 | [`skills.json`](skills.json) | All 48 skills: branch, effect, prerequisites and Skill Point cost (58 SP in total) |
 | [`areas.json`](areas.json) | Lot Edge milestones with rewards and messages; Dry Wash and Great Dune as listed in the Journal |
+| [`achievements.json`](achievements.json) | All 11 achievements from the Records tab, with requirement and whether the demo can unlock it |
 
-Values come from the game's current build (Update 8, extracted 2026-11-23). They may change as the developer updates the game; pull requests with corrections are welcome.
+Values come from the game's current build (Update 11, extracted 2026-11-23). They may change as the developer updates the game; pull requests with corrections are welcome.
 
 **Spoilers:** these files name every buried item in the demo, including the special find. Full-game content stays sealed: the files only show it the way the game itself shows it (silhouettes with rarity and value). It will be added when the full game is released.
 
@@ -22,6 +23,10 @@ If you want the same data as illustrated guides rather than JSON, see the unoffi
 - [Areas and milestones](https://everylastgrain.app/areas)
 - [The special find](https://everylastgrain.app/the-last-guy)
 - [Tools and upgrades](https://everylastgrain.app/upgrades)
+- [All 11 achievements](https://everylastgrain.app/achievements)
+- [Speedrun route and replay build](https://everylastgrain.app/speedrun)
+- [Update log and patch notes](https://everylastgrain.app/updates)
+- [Lag, black screen and lost save fixes](https://everylastgrain.app/troubleshooting)
 
 ## Credits
 

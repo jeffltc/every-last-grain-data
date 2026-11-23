@@ -1,0 +1,17 @@
+{
+  "source": "Journal > Records tab, Every Last Grain demo (Update 11)",
+  "count": 11,
+  "achievements": [
+    {"name": "Paid by the Kilo", "requirement": "Deposit sand for the first time.", "in_demo": true},
+    {"name": "Something Down There", "requirement": "Dig up your first buried item.", "in_demo": true},
+    {"name": "A Ton, Roughly", "requirement": "Remove 1,000 kg of sand.", "sand_kg": 1000, "in_demo": true},
+    {"name": "Truckload", "requirement": "Remove 10,000 kg of sand.", "sand_kg": 10000, "in_demo": true},
+    {"name": "Landscaper", "requirement": "Remove 50,000 kg of sand.", "sand_kg": 50000, "in_demo": true},
+    {"name": "Dune Eater", "requirement": "Remove 150,000 kg of sand.", "sand_kg": 150000, "in_demo": true},
+    {"name": "Geological Event", "requirement": "Remove 250,000 kg of sand.", "sand_kg": 250000, "in_demo": true},
+    {"name": "Edge Case", "requirement": "Clear the Lot Edge completely.", "area": "Lot Edge", "in_demo": true},
+    {"name": "Washed Out", "requirement": "Clear the Dry Wash completely.", "area": "Dry Wash", "in_demo": false},
+    {"name": "No Dune Left Behind", "requirement": "Clear the Great Dune completely.", "area": "Great Dune", "in_demo": false},
+    {"name": "Reclaimed", "requirement": "Clear every area of the desert.", "in_demo": false}
+  ]
+}
