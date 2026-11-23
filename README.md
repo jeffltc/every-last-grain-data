@@ -14,6 +14,8 @@ Values come from the game's current build (Update 11, extracted 2026-11-23). The
 
 **Spoilers:** these files name every buried item in the demo, including the special find. Full-game content stays sealed: the files only show it the way the game itself shows it (silhouettes with rarity and value). It will be added when the full game is released.
 
+Browse it as tables: **[jeffltc.github.io/every-last-grain-data](https://jeffltc.github.io/every-last-grain-data/)**
+
 ## Readable guides
 
 If you want the same data as illustrated guides rather than JSON, see the unofficial fan guide at **[everylastgrain.app](https://everylastgrain.app/)**:
