@@ -10,7 +10,7 @@ Reference data for **[Every Last Grain](https://oliver-kuso.itch.io/every-last-g
 | [`areas.json`](areas.json) | Lot Edge milestones with rewards and messages; Dry Wash and Great Dune as listed in the Journal |
 | [`achievements.json`](achievements.json) | All 11 achievements from the Records tab, with requirement and whether the demo can unlock it |
 
-Values come from the game's current build (Update 13, checked 2026-11-25; unchanged since Update 8). They may change as the developer updates the game; pull requests with corrections are welcome.
+Values come from the game's current build (Update 14, checked 2026-11-26; unchanged since Update 8). They may change as the developer updates the game; pull requests with corrections are welcome.
 
 **Spoilers:** these files name every buried item in the demo, including the special find. Full-game content stays sealed: the files only show it the way the game itself shows it (silhouettes with rarity and value). It will be added when the full game is released.
 
